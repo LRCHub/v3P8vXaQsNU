@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "CAMEO",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-15T19:15:47.071209Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cameo (feat. Kareen Lomax)",
+      "artist": "Kavinsky feat. Kareen Lomax",
+      "has_synced": true,
+      "path": "select/01_Cameo_(feat._Kareen_Lomax)_Kavinsky_feat._Kareen_Lomax.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cameo",
+      "artist": "Kavinsky",
+      "has_synced": true,
+      "path": "select/02_Cameo_Kavinsky.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cameo Lover",
+      "artist": "Kimbra",
+      "has_synced": true,
+      "path": "select/03_Cameo_Lover_Kimbra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cameo Lover - Sam Sparro & Golden Touch Remix",
+      "artist": "Kimbra",
+      "has_synced": false,
+      "path": "select/04_Cameo_Lover_-_Sam_Sparro_&_Golden_Touch_Remix_Kimbra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cameo Lover (Sam Sparro & Golden Touch remix)",
+      "artist": "Kimbra",
+      "has_synced": false,
+      "path": "select/05_Cameo_Lover_(Sam_Sparro_&_Golden_Touch_remix)_Kimbra.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cameo",
+      "artist": "Natalie Imbruglia",
+      "has_synced": true,
+      "path": "select/06_Cameo_Natalie_Imbruglia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cameo",
+      "artist": "Ravyn Lenae",
+      "has_synced": true,
+      "path": "select/07_Cameo_Ravyn_Lenae.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Candy (Featuring Larry Blackmon and Cameo)",
+      "artist": "Will Smith, Larry Blackmon & Cameo",
+      "has_synced": true,
+      "path": "select/08_Candy_(Featuring_Larry_Blackmon_and_Cameo)_Will_Smith,_Larry_Blackmon_&_Cameo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cameo (feat. Kareen Lomax)",
+      "artist": "Kavinsky",
+      "has_synced": true,
+      "path": "select/09_Cameo_(feat._Kareen_Lomax)_Kavinsky.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cameo",
+      "artist": "Rolling Blackouts Coastal Fever",
+      "has_synced": true,
+      "path": "select/10_Cameo_Rolling_Blackouts_Coastal_Fever.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cameo",
+      "artist": "Tom Chaplin",
+      "has_synced": true,
+      "path": "select/11_Cameo_Tom_Chaplin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Candy (feat. Larry Blackmon & Cameo)",
+      "artist": "Will Smith",
+      "has_synced": true,
+      "path": "select/12_Candy_(feat._Larry_Blackmon_&_Cameo)_Will_Smith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Homefront Cameo",
+      "artist": "Cotton Mather",
+      "has_synced": false,
+      "path": "select/13_Homefront_Cameo_Cotton_Mather.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Word up! (Cameo cover)",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/14_Word_up!_(Cameo_cover)_Korn.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cameo",
+      "artist": "Kavinsky feat. Kareen Lomax",
+      "has_synced": true,
+      "path": "select/15_Cameo_Kavinsky_feat._Kareen_Lomax.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CAMEO",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_CAMEO_=LOVE.txt"
+    }
+  ]
+}
